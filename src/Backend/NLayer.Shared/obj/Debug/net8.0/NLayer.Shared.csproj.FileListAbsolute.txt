@@ -1,0 +1,12 @@
+C:\Users\Faruk\OneDrive\Masaüstü\dotnet-8-nlayer-boilerplate\src\NLayer\NLayer.Shared\bin\Debug\net8.0\NLayer.Shared.deps.json
+C:\Users\Faruk\OneDrive\Masaüstü\dotnet-8-nlayer-boilerplate\src\NLayer\NLayer.Shared\bin\Debug\net8.0\NLayer.Shared.dll
+C:\Users\Faruk\OneDrive\Masaüstü\dotnet-8-nlayer-boilerplate\src\NLayer\NLayer.Shared\bin\Debug\net8.0\NLayer.Shared.pdb
+C:\Users\Faruk\OneDrive\Masaüstü\dotnet-8-nlayer-boilerplate\src\NLayer\NLayer.Shared\obj\Debug\net8.0\NLayer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faruk\OneDrive\Masaüstü\dotnet-8-nlayer-boilerplate\src\NLayer\NLayer.Shared\obj\Debug\net8.0\NLayer.Shared.AssemblyInfoInputs.cache
+C:\Users\Faruk\OneDrive\Masaüstü\dotnet-8-nlayer-boilerplate\src\NLayer\NLayer.Shared\obj\Debug\net8.0\NLayer.Shared.AssemblyInfo.cs
+C:\Users\Faruk\OneDrive\Masaüstü\dotnet-8-nlayer-boilerplate\src\NLayer\NLayer.Shared\obj\Debug\net8.0\NLayer.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\OneDrive\Masaüstü\dotnet-8-nlayer-boilerplate\src\NLayer\NLayer.Shared\obj\Debug\net8.0\NLayer.Shared.sourcelink.json
+C:\Users\Faruk\OneDrive\Masaüstü\dotnet-8-nlayer-boilerplate\src\NLayer\NLayer.Shared\obj\Debug\net8.0\NLayer.Shared.dll
+C:\Users\Faruk\OneDrive\Masaüstü\dotnet-8-nlayer-boilerplate\src\NLayer\NLayer.Shared\obj\Debug\net8.0\refint\NLayer.Shared.dll
+C:\Users\Faruk\OneDrive\Masaüstü\dotnet-8-nlayer-boilerplate\src\NLayer\NLayer.Shared\obj\Debug\net8.0\NLayer.Shared.pdb
+C:\Users\Faruk\OneDrive\Masaüstü\dotnet-8-nlayer-boilerplate\src\NLayer\NLayer.Shared\obj\Debug\net8.0\ref\NLayer.Shared.dll
